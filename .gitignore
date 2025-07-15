@@ -1,0 +1,18 @@
+build
+build-*
+cmake-build-debug
+cmake-build-release
+external
+.idea
+#Eclipse files
+.cproject
+.project
+Debug
+*.pyc
+run/
+run-*/
+data/
+tmp/
+test/
+*.DS_Store
+how-branch --all
